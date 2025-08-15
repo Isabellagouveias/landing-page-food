@@ -1,6 +1,6 @@
 # 🍔 Landing Page
 
-Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e JavaScript. Este projeto apresenta um design limpo com animações suaves.
+Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e JavaScript. 
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -21,3 +21,9 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 ## Vídeo do Youtube
 
 https://www.youtube.com/watch?v=8V3mw1w6h0U
+
+## Preview
+
+<img width="2537" height="906" alt="image" src="https://github.com/user-attachments/assets/511943a3-6974-436a-9b08-f03f31a2bd80" />
+
+<img width="803" height="881" alt="image" src="https://github.com/user-attachments/assets/3d6c9252-83b1-4f31-b355-a1fb351da734" />
